@@ -1,21 +1,5 @@
-#Java8 Features
-**min,max,collectors**
-----------
-*Description*
--------
-> The program contains some java8 features which it includes min,max,collectors
-----------
-*packages*
-----------
-> import java.util.stream.Stream;
-
-----------
-*Methods*
-----------
->min(),max(),Collectors()
-----------
-
-```import java.util.stream.Stream;
+package com.mycompany.app.java8;
+import java.util.stream.Stream;
 import java.util.stream.Collectors;
 import java.util.*;
 import java.lang.*;
@@ -49,5 +33,3 @@ public class Streamss
           }
     }
 }
-
-```
